@@ -5,7 +5,7 @@ const MulherSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    image: {
+    imagem: {
         type: String,
         required: true
     },
